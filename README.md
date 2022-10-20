@@ -1,2 +1,2 @@
-# SQL Tutorail -- Practical Implementation
+# SQL Tutorial -- Practical Implementation
 Learn About SQL with BigQuery 
